@@ -1,0 +1,4 @@
+zone "neumann.pl" {
+    type master;
+    file "/etc/bind/db.neumann.pl";
+};
