@@ -9,3 +9,4 @@ $TTL 604800
 @       IN  NS      ns1.neumann.pl.
 ns1     IN  A       10.0.2.4
 jenkins     IN  A       10.0.2.3
+www     IN  A       10.0.2.3
