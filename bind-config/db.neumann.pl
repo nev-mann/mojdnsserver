@@ -11,3 +11,4 @@ ns1     IN  A       10.0.2.4
 jenkins     IN  A       10.0.2.3
 www     IN  A       10.0.2.3
 @     IN  A       10.0.2.3
+nowy     IN  A       10.0.2.4
